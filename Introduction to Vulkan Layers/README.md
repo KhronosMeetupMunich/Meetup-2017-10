@@ -1,0 +1,1 @@
+The slides provide only a brief introduction. For more information, please visit: https://renderdoc.org/vulkan-layer-guide.html
